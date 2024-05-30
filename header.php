@@ -1,7 +1,7 @@
 <?php  include 'alert.php'?>
-<div id="loading">
-    <img id="loading-image" src="<?php echo $website_url?>/all-images/images/loader.gif" alt="Loading..."/> 
-</div> 
+<!-- <div id="loading">
+    <img id="loading-image" src="<?php //echo $website_url?>/all-images/images/loader.gif" alt="Loading..."/> 
+</div>  -->
 
 <header class="fadeInDown animated"> 
     <div class="header-top-div">

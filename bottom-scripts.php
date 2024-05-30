@@ -13,11 +13,11 @@ AOS.init({
 });
 </script>
 
-<script>
+<!-- <script>
   $(window).on('load', function (){
     $('#loading').hide();
   }) 
-</script>
+</script> -->
 
 <script src="<?php echo $website_url?>/slide-property/carousel/product-slide.js" type="text/javascript" ></script>
 
