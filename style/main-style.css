@@ -4524,6 +4524,7 @@ header .header-div-in .inner .mobile-btn:hover{
 
 .gen-content-back-detail .left-div .content-back-div .tent-div .img-div{
 	width: 250px;
+	max-height: 250px;
 	float: left;
 	overflow: hidden;
 }
@@ -5176,8 +5177,6 @@ header .header-div-in .inner .mobile-btn:hover{
 
 
 /* MAIN GALLERY PAGE STYLE*/
-
-
 .main-gallery-back-div{
 	width: 100%;
 	text-align: center;

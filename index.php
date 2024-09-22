@@ -229,7 +229,7 @@
                                     </div>
 
                                     <!-- <div class="cg-carousel__slide js-carousel__slide"  data-aos="fade-left" data-aos-duration="1200">
-                                        <div class="culture-div">
+                                        <div class="">
                                             <div class="inner-title">CULTURE</div>
                                             <div class="image-div">   
                                                 <img src="<?php //echo $website_url?>/all-images/body-pix/pyramid.jpg" alt="pyramid" />                               

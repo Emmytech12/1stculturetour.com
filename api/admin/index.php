@@ -91,8 +91,8 @@ if (($action=='login_api') || ($action=='proceed_reset_password_api') || ($actio
 							/// update user on staff_tab
 							mysqli_query($conn,"UPDATE staff_tab SET hash_id='$hash_id', updated_time=NOW() WHERE staff_id='$staff_id'")or die (mysqli_error($conn));
 							//// send link to email
-							// $mail_to_send='send_reset_password_link';
-							// require_once('mail/mail.php');	
+							 $mail_to_send='send_reset_password_link';
+							 require_once('mail/mail.php');	
 
 							$response['response']=106; 
 							$response['success']=true;
